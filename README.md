@@ -20,9 +20,10 @@
 - [ Getting Started ](#-getting-started-)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
+    - [For Client:](#for-client)
+    - [For Server:](#for-server)
 - [Built With](#built-with)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## <span id="-introduction-"> Introduction </span>
 
@@ -50,3 +51,46 @@ Clone the repository:
 git clone https://github.com/CodeDeployingSquad/Omeglerr.git
 cd Omeglerr
 ```
+
+#### For Client:
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+#### For Server:
+
+Install dependencies:
+
+```bash
+cd server
+npm install
+```
+
+Run the server:
+
+```bash
+npm start
+```
+
+## <span id="built-with">Built With</span>
+
+ - Next.js
+ - Express
+ - Socket.io
+ - WebRTC
+ - Tailwind
+  
+## <span id="contributing">Contributing</span>
+
+> For contributing check our [Contributing Guide](https://www.codedeployingsquad.tech/docs/guide/contributingguide)
+
+> For more guidance check out [All Guides](https://www.codedeployingsquad.tech/docs/guide)
