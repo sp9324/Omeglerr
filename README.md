@@ -9,6 +9,30 @@
 <br>
 
 <div align="center">
+<a href="https://github.com/CodeDeployingSquad/graphs/contributors" style="margin: 0 5px;">
+    <img alt="Contributors" src="https://img.shields.io/github/contributors/CodeDeployingSquad/Omeglerr?label=Contributors&color=blue">
+</a>
+<a href="https://github.com/CodeDeployingSquad/graphs/commit-activity" style="margin: 0 5px;">
+    <img alt="Commits" src="https://img.shields.io/github/commit-activity/t/CodeDeployingSquad/Omeglerr?label=Commits&color=orange">
+</a>
+<a href="https://github.com/CodeDeployingSquad/pulls" style="margin: 0 5px;">
+    <img alt="PRs Open" src="https://img.shields.io/github/issues-pr-raw/CodeDeployingSquad/Omeglerr?label=PRs%20Open&color=brightgreen">
+</a>
+<a href="https://github.com/CodeDeployingSquad/issues" style="margin: 0 5px;">
+    <img alt="Issues Open" src="https://img.shields.io/github/issues-raw/CodeDeployingSquad/Omeglerr?label=Issues%20Open&color=red">
+</a>
+<a href="https://github.com/CodeDeployingSquad/network/members" style="margin: 0 5px;">
+    <img alt="Forks" src="https://img.shields.io/github/forks/CodeDeployingSquad/Omeglerr?label=Forks&color=lightgrey">
+</a>
+<a href="https://github.com/CodeDeployingSquad/stargazers" style="margin: 0 5px;">
+    <img alt="Stars" src="https://img.shields.io/github/stars/CodeDeployingSquad/Omeglerr?label=Stars&color=yellow">
+</a>
+</div>
+
+<br>
+<br>
+
+<div align="center">
   <img alt="Omeglerr" title="Omeglerr" src="https://i.postimg.cc/zGjLyrrC/Screenshot-2024-02-04-at-1-36-20-AM.png" width="100%" style="border: 1px solid gray; border-radius: 5px; display: block; margin: 0 auto;">
 </div>
 <br>
@@ -24,6 +48,8 @@
     - [For Server:](#for-server)
 - [Built With](#built-with)
 - [Contributing](#contributing)
+- [Contributors](#contributors)
+- [License](#license)
 
 ## <span id="-introduction-"> Introduction </span>
 
@@ -94,3 +120,21 @@ npm start
 > For contributing check our [Contributing Guide](https://www.codedeployingsquad.tech/docs/guide/contributingguide)
 
 > For more guidance check out [All Guides](https://www.codedeployingsquad.tech/docs/guide)
+
+## <span id="contributors">Contributors</span>
+
+<a href="https://github.com/CodeDeployingSquad/Omeglerr/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CodeDeployingSquad/Omeglerr" />
+</a>
+
+## <span id="license">License</span>
+
+This project is licensed under the [MIT License](https://opensource.org/license/mit/) - see the [LICENSE.md](https://github.com/CodeDeployingSquad/cds-website/blob/main/LICENSE) file for details.
+
+<!-- ## <span id="acknowledgments">Acknowledgments</span>
+
+- https://web3js.readthedocs.io/en/v1.10.0/
+- https://ethereum.org/
+- https://polygon.technology/
+- https://mumbai.polygonscan.com/
+- https://winterofcode.com/ -->
