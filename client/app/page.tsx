@@ -10,8 +10,9 @@ function Home() {
   const { onOpen } = useModal(); 
 
   return (
-    <div className='w-full h-full'>
 
+    
+    <div className='w-full h-full'>
       <Brand />
       <div className='text-center mt-2'>
         <p className='text-[#5f6d80] italic '>The most trustable Online Chatting Platform to help people connect <span className='font-bold'>anonymously</span> </p>
